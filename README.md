@@ -1,2 +1,0 @@
-# MyPersonalWeb
-My own profile

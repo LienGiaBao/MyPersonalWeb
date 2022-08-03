@@ -101,20 +101,13 @@ $form-group-margin-bottom:       30px !default;
 
 
 
-
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
-
 body {
 	font-family: $font-primary;
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.7;
 	color: darken($brand-white,70%);
-	background: #fff;
+	background: rgb(255, 255, 255);
 }
 #page {
 	position: relative;
